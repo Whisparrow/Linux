@@ -349,18 +349,18 @@ Current shortcuts include support for:
 | Mod + q | Close focused window |
 | Mod + Space | Toggle floating |
 | Mod + f | Toggle fullscreen |
+| Mod + t | Toggle the focused window between tiled and floating mode |
 
 ## Layouts
 | Shortcut | Action |
 |----------|--------|
-| Mod + Tab | Next layout |
+| Mod + Tab | Open the GNOME-style application switcher (includes minimized windows) |
 | Mod + h | Focus left |
 | Mod + l | Focus right |
 
 ## Scratchpads
 | Shortcut | Action |
 |----------|--------|
-| Mod + t | Toggle scratchpad terminal |
 | Mod + n | Toggle notes |
 
 ## Workspaces
